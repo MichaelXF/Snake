@@ -1,7 +1,9 @@
 # Snake
 ![snake_small_banner](https://user-images.githubusercontent.com/25538372/60645063-b29a6a00-9e05-11e9-83ef-68e71e7ab99b.png)
 
-Snake, based on the classic arcade game, is an open source canvas game.
+Snake, based on the classic arcade game, is an open source canvas game. I'm hosting this on my website:
+[Play Here: http://michaelxf.com/apps/snake](http://michaelxf.com/apps/snake)
+
 
 
 ## How To Play
