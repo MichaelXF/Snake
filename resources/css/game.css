@@ -1,0 +1,16 @@
+/*
+    style for playing the game
+    only includes the score text
+*/
+
+
+.game-ui-score {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+.game-ui-score > h1 {
+    font-size: 40px;
+    color: #fff;
+}
